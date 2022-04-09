@@ -2,4 +2,5 @@ I was born on 1990
 I have passed my SSC in 2006
 I completed my HSC in 2008
 Personal Access key --> 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
-I have completed my MSc in 2015
+I have completed my MSc in 2017
+I have started full stack development job 2021
